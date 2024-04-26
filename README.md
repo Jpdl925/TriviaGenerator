@@ -18,7 +18,7 @@ https://github.com/Jpdl925/TriviaGenerator
 
 <strong> Peer review - David Jimenez <br>
 
-I see that you would be deleting the link tag for an image and you deleted it.  We discussed modifying the audio line in the JS and I see that its added to the index file
+I see that you would be deleting the link tag for an image and you deleted it.  We discussed modifying the audio line in the JS and I see that its added to the index file.  I like how you added the clap track for when the user clicks a category button which shows a question.  The styling is nice for the hover over effect on the answer.  Generally this looks great for the what is required.
 
 
 
