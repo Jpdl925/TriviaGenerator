@@ -1,0 +1,48 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700);
+
+  body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Oswald;
+    background-image:url(/media/dadFace.jpg);
+    background-repeat: no-repeat;
+    background-position: 85% 25%;
+    background-color: #e0943c;
+  }
+  .contentSpace{
+    display: block;
+    text-align: center;
+  }
+  .questionSpace{
+    width: 100vw;
+    overflow:auto;
+  }
+  .buttonSpace{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+  }
+
+  .answerSpace{
+    display: inline-block;
+  }
+  h2{
+    color: black;
+    background-color: black;
+  }
+  h2:hover{
+    color: white;
+  }
+
+  button{
+    margin-inline: .5vw;
+    width: 15vw;
+  }
+  button:hover {
+    background-color: black;
+    color: white;
+  }
