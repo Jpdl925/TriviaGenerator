@@ -1,4 +1,3 @@
-// Button used for fetching, and changing the text on screen to the randomly generated dad joke
 let generalKnowledge = document.getElementById("generalKnowledge").addEventListener('click', () =>{
     triviaQuestion();
 });
@@ -8,10 +7,8 @@ let scienceNature = document.getElementById("scienceNature").addEventListener('c
 let art = document.getElementById("art").addEventListener('click', () =>{
     artQuestion();
 });
-// Text that is changed from the button click to a randomly generated dad joke from the api
 let questionTxt = document.getElementById("questionTxt");
 let answerTxt = document.getElementById("answer");
-// Laugh track that plays once button is pressed
 let audio = new Audio("/media/laughTrack.mp3");
 
 
