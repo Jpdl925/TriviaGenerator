@@ -1,15 +1,18 @@
 let generalKnowledge = document.getElementById("generalKnowledge").addEventListener('click', () =>{
     triviaQuestion();
+    audio.play();
 });
 let scienceNature = document.getElementById("scienceNature").addEventListener('click', () =>{
     scienceNatureQuestion();
+    audio.play();
 });
 let art = document.getElementById("art").addEventListener('click', () =>{
     artQuestion();
+    audio.play();
 });
 let questionTxt = document.getElementById("questionTxt");
 let answerTxt = document.getElementById("answer");
-let audio = new Audio("/media/laughTrack.mp3");
+let audio = new Audio("/media/crowdSound.mp3");
 
 
 
