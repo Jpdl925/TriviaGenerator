@@ -16,7 +16,9 @@ Add a way for the User to choose at least from 3 Categories.
 Git:
 https://github.com/Jpdl925/TriviaGenerator
 
-<strong> Peer review - 
+<strong> Peer review - David Jimenez <br>
+
+I see that you would be deleting the link tag for an image and you deleted it.  We discussed modifying the audio line in the JS and I see that its added to the index file
 
 
 
